@@ -5,8 +5,8 @@ This code is released for the paper "Modeling the Effort and Learning Ability of
 
 
 ### Usage:
-1. Run deepCDF: execute the code "python model.py"
-2. Download the processed data：https://pan.baidu.com/s/1__G1tAriHP6ZCJqazk2NUw?pwd=m9cx, and the password is m9cx
+1. Run ELA: execute the code "python model.py"
+2. Download the processed data：https://pan.baidu.com/s/1__G1tAriHP6ZCJqazk2NUw?pwd=m9cx; the password is m9cx
 
 
 ### Citation:
