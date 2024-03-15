@@ -11,6 +11,7 @@ This code is released for the paper "Modeling the Effort and Learning Ability of
 
 ### Citation:
 1.The algorithm ELA is from the paper:
+```bibtex
 @ARTICLE{8818052,
   author={Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
   journal={IEEE Access}, 
@@ -19,9 +20,10 @@ This code is released for the paper "Modeling the Effort and Learning Ability of
   volume={7},
   pages={128035-128042},
   doi={10.1109/ACCESS.2019.2937985}}
-
+```
 
 2.The datasets we use are from:
+```bibtex
 @data{DVN/26147_2014,
 author = {HarvardX},
 publisher = {Harvard Dataverse},
@@ -32,7 +34,9 @@ version = {V11},
 doi = {10.7910/DVN/26147},
 url = {https://doi.org/10.7910/DVN/26147}
 }
+```
 
+```bibtex
 @inproceedings{10.1145/2835776.2835842,
 author = {Qiu, Jiezhong and Tang, Jie and Liu, Tracy Xiao and Gong, Jie and Zhang, Chenhui and Zhang, Qian and Xue, Yufei},
 title = {Modeling and Predicting Learning Behavior in MOOCs},
@@ -49,7 +53,7 @@ keywords = {moocs, online engagement, predictive model, user behavior},
 location = {San Francisco, California, USA},
 series = {WSDM '16}
 }
-
+```
 
 ### Author contact:
 Email: linafreee@163.com
