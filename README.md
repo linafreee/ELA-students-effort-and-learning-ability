@@ -11,6 +11,7 @@ This code is released for the paper "Modeling the Effort and Learning Ability of
 
 ### Citation:
 1.The algorithm ELA is from the paper:
+
 @ARTICLE{8818052,
   author={Gao, Lina and Zhao, Zhongying and Qi, Liang and Liang, Yongquan and Du, Junwei},
   journal={IEEE Access}, 
