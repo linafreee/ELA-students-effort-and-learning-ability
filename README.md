@@ -1,13 +1,10 @@
 # ELA-students-effort-and-learning-ability
 
 ### Basic Information:
-This code is released for the paper "Modeling the Effort and Learning Ability of Students in MOOCs."
-
+The source code and datasets are released for the paper "Modeling the Effort and Learning Ability of Students in MOOCs."
 
 ### Usage:
-1. Run ELA: execute the code "python model.py"
-2. Download the processed data：https://pan.baidu.com/s/1__G1tAriHP6ZCJqazk2NUw?pwd=m9cx; the password is m9cx
-
+Run ELA: execute the code "python model.py"
 
 ### Citation:
 1.The algorithm ELA is from the paper:
